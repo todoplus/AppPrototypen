@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="added_events">
+        <item>Todo+</item>
+        
+    </string-array>
+    
+    <string-array name="beschreibungen">
+        <item>started!</item>
+    </string-array>
+    
+</resources>
